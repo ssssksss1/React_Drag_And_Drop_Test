@@ -13,10 +13,11 @@ html, css, javascript, react, redux, stylecomponent, react-router-dom
 ---
 
 #### drag and drop example1
+RawDragAndDrop1.js 참고
 |번호|설명|
 |:---:|:---:|
 |01|1개의 컴포넌트에서 순서를 바꾸는 예제|
-RawDragAndDrop1.js 참고
+기본 html drag api만을 사용
 ```
     
 ```
@@ -26,6 +27,8 @@ RawDragAndDrop2.js 참고
 |번호|설명|
 |:---:|:---:|
 |01|2개의 컴포넌트에서 순서를 바꾸는 예제|
+기본 html drag api만을 사용
+다른 컴포넌트끼리의 요소를 옮기기 위해서 redux를 사용
 ```
     
 ```
