@@ -1,7 +1,7 @@
 # 깃허브 액션을 이용하여 PUSH하였을 떄 클라우드 인스턴스에 SSH로 접속하여 폴더 생성하기
 
 ### 실행 해보기
-[테스트 코드 실행해보기](http://ssssksss1.github.io/React_Drag_And_Drop_Test/){:target="_blank"}
+<a href="http://ssssksss1.github.io/React_Drag_And_Drop_Test" target="_blank">테스트코드 실행해보기</a>
 
 #### Stack
 html, css, javascript, react, redux, stylecomponent, react-router-dom
